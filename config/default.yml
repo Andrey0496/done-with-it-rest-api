@@ -1,0 +1,13 @@
+server:
+    port: 3000
+
+db:
+    type: 'mysql'
+    port: 3306
+    database: 'done-with-it'
+    synchronize: true
+    username: sample-username
+    password: sample-password
+
+jwt:
+    expiresIn: 3600
