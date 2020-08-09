@@ -4,10 +4,10 @@ server:
 db:
     type: 'mysql'
     port: 3306
-    database: 'done-with-it'
+    database: 'db-name'
     synchronize: true
-    username: sample-username
-    password: sample-password
+    username: db-username
+    password: db-password
 
 jwt:
     expiresIn: 3600
