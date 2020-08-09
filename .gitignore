@@ -35,5 +35,4 @@ lerna-debug.log*
 
 # config - files
 /config/*
-!/config/deafault.yml
 !/config/sample.yml
